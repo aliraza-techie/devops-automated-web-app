@@ -11,3 +11,4 @@ jobs:
 
     - name: Build Test Docker Image
       run: docker build -t my-web-app:latest .
+
