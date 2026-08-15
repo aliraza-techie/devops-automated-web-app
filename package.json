@@ -1,0 +1,10 @@
+{
+  "name": "devops-automated-web-app",
+  "version": "1.0.0",
+  "description": "My DevOps Portfolio Project",
+  "main": "index.js",
+  "scripts": {
+    "start": "echo 'App is running successfully!' && exit 0"
+  },
+  "dependencies": {}
+}
